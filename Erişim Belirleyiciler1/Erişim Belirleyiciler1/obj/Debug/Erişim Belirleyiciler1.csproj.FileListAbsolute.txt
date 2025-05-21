@@ -1,0 +1,7 @@
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\bin\Debug\Erişim Belirleyiciler1.exe.config
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\bin\Debug\Erişim Belirleyiciler1.exe
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\bin\Debug\Erişim Belirleyiciler1.pdb
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\obj\Debug\Erişim Belirleyiciler1.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\obj\Debug\Erişim Belirleyiciler1.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\obj\Debug\Erişim Belirleyiciler1.exe
+C:\Users\mitha\source\repos\Erişim Belirleyiciler1\Erişim Belirleyiciler1\obj\Debug\Erişim Belirleyiciler1.pdb
